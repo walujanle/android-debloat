@@ -1,0 +1,7 @@
+# Samsung packages protected by default
+com.knox.vpn.proxyhandler
+com.samsung.android.app.dressroom
+com.samsung.android.da.daagent
+com.samsung.android.game.gametools
+com.samsung.android.game.gos
+com.samsung.android.knox.zt.framework

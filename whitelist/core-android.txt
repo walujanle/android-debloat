@@ -1,0 +1,6 @@
+# Core Android packages protected by default
+com.android.internal.systemui.onehanded.gestural
+com.android.managedprovisioning
+com.android.ons
+com.android.providers.settings.auto_generated_rro_product__
+com.android.virtualmachine.res
