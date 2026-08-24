@@ -38,3 +38,4 @@ com.google.ar.core
 com.google.audio.hearing.visualization.accessibility.scribe
 com.google.mainline.adservices
 com.google.mainline.telemetry
+com.google.android.verifier
