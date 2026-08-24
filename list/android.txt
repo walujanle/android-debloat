@@ -1,0 +1,2 @@
+com.android.systemui.auto_generated_rro_product__
+com.android.providers.telephony.auto_generated_characteristics_rro
