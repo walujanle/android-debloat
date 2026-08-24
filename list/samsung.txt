@@ -105,3 +105,8 @@ com.sec.enterprise.mdm.services.simpin
 com.sec.modem.settings
 com.sec.spp.push
 com.snap.camerakit.plugin.v1
+com.samsung.android.hwresourceshare.storage
+com.samsung.android.app.clipboardedge
+com.samsung.aasaservice
+com.samsung.android.mocca
+com.samsung.crane
