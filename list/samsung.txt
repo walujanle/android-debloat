@@ -116,3 +116,4 @@ com.sec.android.app.quicktool
 com.sec.android.app.wlantest
 com.sec.mhs.smarttethering
 com.samsung.android.mcf.autohotspot
+com.facebook.appmanager
