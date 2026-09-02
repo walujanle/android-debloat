@@ -110,3 +110,9 @@ com.samsung.android.app.clipboardedge
 com.samsung.aasaservice
 com.samsung.android.mocca
 com.samsung.crane
+com.samsung.android.spayfw
+com.samsung.android.app.taskedge
+com.sec.android.app.quicktool
+com.sec.android.app.wlantest
+com.sec.mhs.smarttethering
+com.samsung.android.mcf.autohotspot
