@@ -117,3 +117,5 @@ com.sec.android.app.wlantest
 com.sec.mhs.smarttethering
 com.samsung.android.mcf.autohotspot
 com.facebook.appmanager
+com.samsung.android.callassistant
+com.samsung.android.da.daagent
