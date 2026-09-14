@@ -119,3 +119,6 @@ com.samsung.android.mcf.autohotspot
 com.facebook.appmanager
 com.samsung.android.callassistant
 com.samsung.android.da.daagent
+com.sec.location.nfwlocationprivacy
+com.samsung.android.singletake.service
+com.samsung.android.appseparation
