@@ -3,3 +3,4 @@ com.android.providers.telephony.auto_generated_characteristics_rro
 com.android.calllogbackup
 com.android.companiondevicemanager.auto_generated_characteristics_rro
 com.android.internal.display.cutout.emulation.waterfall
+com.android.traceur
