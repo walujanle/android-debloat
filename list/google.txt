@@ -40,3 +40,6 @@ com.google.mainline.telemetry
 com.google.android.verifier
 com.google.android.apps.restore
 com.google.android.verifier.overlay
+com.google.android.overlay.modules.permissioncontroller.forframework
+com.google.android.overlay.gmsconfig.geotz
+com.google.android.overlay.gmsconfig.asi
